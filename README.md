@@ -1,5 +1,9 @@
 # Lead Scoring
 
+
+https://github.com/AnaLMSantana/leadscoring/assets/138023763/afc5a0cd-2c4f-4957-92e1-030430df1f1f
+
+
 Lead Scoring
 
 This project developed as a part of the Data Analytics course at Ironhack Portugal, aims to streamline the lead scoring process using a comprehensive and user-friendly application. The project spans various Python scripts and Jupyter Notebooks, which handle data manipulation, model training, and other crucial methods integral to the application's functionality.
